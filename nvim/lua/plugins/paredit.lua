@@ -1,5 +1,5 @@
 return {
-    { "PaterJason/nvim-treesitter-sexp",
+    { "julienvincent/nvim-paredit",
     opts = {}, 
     event = "LazyFile" 
 }

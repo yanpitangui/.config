@@ -7,13 +7,6 @@ Este repositório contém a configuração dos plugins do **Neovim** utilizando 
 ---
 
 ## 📦 Plugins Instalados
-
-🔹 **Avante**
-- Integração com **Copilot** para sugestões automáticas.
-- Suporte a diferentes **provedores de IA** para código.
-- Funcionalidade para **colar imagens diretamente** no Neovim.
-- Compatível com **Telescope**, **FZF**, **nvim-cmp**, entre outros.
-
 🔹 **Baleia**
 - Permite **colorir logs e saídas ANSI** no Neovim.
 - Inclui os comandos `:BaleiaColorize` e `:BaleiaLogs` para manipulação de cores.

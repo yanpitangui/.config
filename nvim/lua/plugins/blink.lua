@@ -9,7 +9,6 @@ return {
     "sources.default",
   },
   dependencies = {
-    --'Kaiser-Yang/blink-cmp-avante',
     "rafamadriz/friendly-snippets",
     -- add blink.compat to dependencies
     {
