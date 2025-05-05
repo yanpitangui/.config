@@ -1,3 +1,11 @@
 return {
-    { "williamboman/mason-lspconfig.nvim", config = function() end }
+  {
+    "williamboman/mason-lspconfig.nvim",
+    config = {
+      ensure_installed = {
+        "clojure_lsp",
+      },
+    },
+  },
 }
+
